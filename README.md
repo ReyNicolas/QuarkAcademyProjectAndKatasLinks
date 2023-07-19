@@ -1,7 +1,7 @@
 
 ## Link a Grupo de Gitlab con resolución de proyecto final Quark Academy Bootcamp Trivia Unity y resolución de algunas katas
 
-- https://gitlab.com/topictwisterequipo14
+- link: https://gitlab.com/topictwisterequipo14
 
 ## Integrantes y Contacto
 
