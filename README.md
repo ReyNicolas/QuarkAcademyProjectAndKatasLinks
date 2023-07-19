@@ -1,5 +1,3 @@
-# QuarkAcademyProjectAndKatasLinks
-
 
 ## Link a Grupo de Gitlab con resolución de proyecto final Quark Academy Bootcamp Trivia Unity y resolución de algunas katas
 
